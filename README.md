@@ -54,8 +54,8 @@ The following inputs are required:
    ```bash
    git clone https://github.com/jroshanb/Loan-Approval-Prediction.git
    cd Loan-Approval-Prediction
-pip install -r requirements.txt
-streamlit run Loan.py
+   pip install -r requirements.txt
+   streamlit run Loan.py
 
 Make sure that the model files (decision_tree_model.pkl, logistic_regression_model.pkl, random_forest_model.pkl) are in the same directory as Loan.py.
 
